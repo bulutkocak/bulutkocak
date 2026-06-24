@@ -1,4 +1,4 @@
-# Hello 👋, I'm Bulut.
+# Hello 👋, I'm Bulut
 ### Software Engineer & Cyber Security Analyst
 
 I am interested in software development and cyber security. I enjoy spending my time to build apps, websites, bots and projects.
