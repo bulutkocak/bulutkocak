@@ -25,8 +25,6 @@ I am interested in software development and cyber security. I enjoy spending my 
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulutkocak&layout=compact&theme=default" alt="Most Used Languages" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bulutkocak&theme=default" alt="GitHub Streak" />
 
 ## 📨 Contact Me
